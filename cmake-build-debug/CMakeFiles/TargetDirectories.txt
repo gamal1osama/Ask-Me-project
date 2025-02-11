@@ -1,3 +1,0 @@
-E:/materials/mostafa saad udemy/askme_project_oop/cmake-build-debug/CMakeFiles/askme_project_oop.dir
-E:/materials/mostafa saad udemy/askme_project_oop/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/materials/mostafa saad udemy/askme_project_oop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
