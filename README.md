@@ -6,7 +6,7 @@
 
 A sophisticated question and answer system implementing core OOP concepts, featuring anonymous interactions and threaded conversations.
 
-## Features ✨
+## Features
 
 ### **User Management**
 - Secure registration/login system
@@ -28,7 +28,7 @@ A sophisticated question and answer system implementing core OOP concepts, featu
 - Atomic database updates
 - Data consistency checks
 
-## Installation 💻
+## Installation
 
 ### **Prerequisites**
 - C++17 compatible compiler
@@ -52,7 +52,7 @@ make
 ### **Configuration**
 Update file paths in `ReadFileLines()` and `WriteFileLines()` functions to match your system.
 
-## Usage 🚀
+## Usage
 
 ### **Main Menu:**
 ```
@@ -86,7 +86,7 @@ id,username,password,name,email,allow_anonymous
 id,parent_id,from_user,to_user,is_anonymous,question,answer
 ```
 
-## Class Structure 🏗️
+## Class Structure
 
 | Class            | Responsibility                            |
 |-----------------|----------------------------------------|
@@ -96,7 +96,7 @@ id,parent_id,from_user,to_user,is_anonymous,question,answer
 | `QuestionsManager` | Core Q&A functionality                |
 | `AskMeSystem`  | Main application controller             |
 
-## Examples 💡
+## Examples
 
 ### **User Registration**
 ```cpp
@@ -121,7 +121,7 @@ Question 101: What programming language should I learn first?
 -- Thread 202: What about Python for beginners?
 ```
 
-## Roadmap 🔮
+## Roadmap 
 - ✅ JSON data storage
 - ✅ Password encryption
 - ✅ Email notifications
